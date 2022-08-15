@@ -1,12 +1,12 @@
 # Mooovie-Pogressive-Web-App
 Mooovie-Pogressive Web App
 
-![](Images/img1.png)
+![](images/img1.png)
 
-![](Images/img2.png)
+![](images/img2.png)
 
-![](Images/img3.png)
+![](images/img3.png)
 
-![](Images/img4.png)
+![](images/img4.png)
 
-![](Images/img5.png)
+![](images/img5.png)
