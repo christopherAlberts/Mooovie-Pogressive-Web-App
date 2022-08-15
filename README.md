@@ -1,6 +1,9 @@
 # Mooovie-Pogressive-Web-App
 Mooovie-Pogressive Web App
 
+
+In this project I make use of "the movie db" API and tmdb's api to display information about all the current Movies and Series recently released. 
+
 ![](images/img1.png)
 
 ![](images/img2.png)
