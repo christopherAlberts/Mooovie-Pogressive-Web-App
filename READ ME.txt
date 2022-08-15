@@ -1,0 +1,11 @@
+# Use the CLI to generate some pages
+ionic g page page/nameOfPage
+
+# node package manager install
+npm install
+
+# Display in browser
+ionic serve
+
+* Emulate on device.
+ionic capaCitor run android
